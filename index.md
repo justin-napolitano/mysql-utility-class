@@ -1,12 +1,27 @@
 ---
-slug: "github-mysql-utility-class"
-title: "mysql-utility-class"
-repo: "justin-napolitano/mysql-utility-class"
-githubUrl: "https://github.com/justin-napolitano/mysql-utility-class"
-generatedAt: "2025-11-23T09:19:15.947525Z"
-source: "github-auto"
+slug: github-mysql-utility-class
+title: Python MySQL Utility Class for Database Management Tasks
+repo: justin-napolitano/mysql-utility-class
+githubUrl: https://github.com/justin-napolitano/mysql-utility-class
+generatedAt: '2025-11-23T09:19:15.947525Z'
+source: github-auto
+summary: >-
+  Lightweight Python class using mysql-connector-python to manage MySQL databases with create, drop,
+  and connection handling functions.
+tags:
+  - python
+  - mysql
+  - mysql-connector-python
+  - database-management
+  - automation
+  - utility-class
+seoPrimaryKeyword: python mysql utility class
+seoSecondaryKeywords:
+  - mysql database management
+  - mysql-connector-python
+  - python database automation
+seoOptimized: true
 ---
-
 
 # mysql-utility-class: A Practical MySQL Utility Class in Python
 
