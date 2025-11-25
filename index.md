@@ -1,13 +1,13 @@
 ---
 slug: github-mysql-utility-class
-title: Python MySQL Utility Class for Database Management Tasks
+title: MySQL Utility Class in Python for Simple Database Management
 repo: justin-napolitano/mysql-utility-class
 githubUrl: https://github.com/justin-napolitano/mysql-utility-class
 generatedAt: '2025-11-23T09:19:15.947525Z'
 source: github-auto
 summary: >-
-  Lightweight Python class using mysql-connector-python to manage MySQL databases with create, drop,
-  and connection handling functions.
+  A practical Python utility class for managing MySQL databases, focusing on
+  connection handling and basic operations without heavy dependencies.
 tags:
   - python
   - mysql
@@ -15,21 +15,26 @@ tags:
   - database-management
   - automation
   - utility-class
-seoPrimaryKeyword: python mysql utility class
+  - database management
+seoPrimaryKeyword: mysql utility class python
 seoSecondaryKeywords:
-  - mysql database management
-  - mysql-connector-python
-  - python database automation
+  - mysql database automation
+  - python database utility
+  - lightweight mysql management
+  - simple mysql connector
 seoOptimized: true
 topicFamily: automation
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The post focuses on a Python utility class automating MySQL database management tasks such as
-  creating and dropping databases and connection handling, which aligns closely with the Automation
-  family's description of scripts and projects automating workflows and deployment tasks. The use of
-  environment variables and lightweight automation scripts further supports this classification.
-  Other families like datascience or devtools do not fit the core focus on automation of database
-  management.
+  The post focuses on a Python utility class automating MySQL database
+  management tasks such as creating and dropping databases and connection
+  handling, which aligns closely with the Automation family's description of
+  scripts and projects automating workflows and deployment tasks. The use of
+  environment variables and lightweight automation scripts further supports this
+  classification. Other families like datascience or devtools do not fit the
+  core focus on automation of database management.
+kind: project
+id: github-mysql-utility-class
 ---
 
 # mysql-utility-class: A Practical MySQL Utility Class in Python
