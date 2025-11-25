@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/mysql-utility-class
 generatedAt: '2025-11-24T21:35:40.316Z'
 source: github-auto
 summary: >-
-  A Python utility class for managing MySQL connections and basic operations
-  like creating and dropping databases.
+  A Python utility class for managing MySQL connections and basic operations like creating and
+  dropping databases.
 tags:
   - mysql
   - python
@@ -22,8 +22,8 @@ seoSecondaryKeywords:
   - mysql connection lifecycle
   - environment variables mysql
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: devtools
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -107,4 +107,5 @@ mysql-utility-class/
 - Provide configuration options to connect directly to a specific database
 - Add unit tests and CI integration
 - Improve documentation with usage examples and troubleshooting guide
+
 
